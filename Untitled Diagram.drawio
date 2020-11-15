@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-15T15:13:07.129Z" agent="5.0 (Windows)" etag="PfToR5FpNR67wAhNE6Ee" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-15T15:15:05.571Z" agent="5.0 (Windows)" etag="y2i6WsGhx2vB_tLS4vAX" version="13.9.8" type="github">
   <diagram id="mhuhX_jn_Kd6gjhFbVmf" name="Page-1">
-    <mxGraphModel dx="2692" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5806" dy="2188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -411,6 +411,9 @@
             <mxPoint x="-800" y="470" as="sourcePoint" />
             <mxPoint x="-640" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SHIvyuMOer26VCR0e-Zf-33" value="界面UI逻辑类图" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFE6CC;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="920" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
